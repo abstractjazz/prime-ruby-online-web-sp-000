@@ -7,10 +7,3 @@ def prime?(integer)
       false
     end
   end
-
-iterates over 2 to
-
-  2 / 2 = 1
-
-  2 / 1 = .5
-  returns false
